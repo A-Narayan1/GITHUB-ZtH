@@ -270,6 +270,3 @@ on May 8, 2020
 'Doing the heavy lifting',
 'We're working very Hard .... Really',
 'Waking up the minions',
-'You are number 2843684714 in the queue',
-'Please wait while we serve other customers...',
-'Our premium plan is faster',
